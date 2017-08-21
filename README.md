@@ -1,6 +1,7 @@
 # computer-builders-quiz
 
-1. Taken from Zed Shaw's Learn Python the Hard Way 
+## Part I: Fixing Errors
+Taken from Zed Shaw's Learn Python the Hard Way 
 
 This challenge will be *very* hard because it requires you to fix someone else's code. When you are a programmer you often have to deal with another programmer's code with another programmer's code, and also their arrogance. They will frequently claim their code is perfect. 
 
@@ -12,10 +13,14 @@ All of these errors are very common mistakes all programmers make. Even experien
 
 Your job is to correct the file. Use all of your skills to make this file better. Fix each flaw and keep running it and fixing it until the script runs perfectly. 
 
-First copy and paste [errors.txt](errors.txt) into your workspace and fix all the errors
+Copy and paste [errors.txt](errors.txt) into your workspace and fix all the errors
 
-2. Write a program that generates a sequence of hailstone numbers The hailstone numbers can be
-described succinctly as follows: Start with a positive integer; if that number is even, divide it in
+## Part II: Hailstone Numbers
+
+Write a program that generates a sequence of hailstone numbers The hailstone numbers can be
+described succinctly as follows: <br><br>
+
+Start with a positive integer; if that number is even, divide it in
 half, and continue; if the number is odd, triple it and add 1, and continue. Proceed in this way
 until you arrive at the value 1.  <br><br>
 For example, if you start with 20, this is the sequence you get: `20,10,5,16,8,4,2,1`. If you start
